@@ -1,4 +1,4 @@
-# Pig Dice Game
+# Dice Game
 #### A simple dice game for two players. Each player rolls the dices until either a 1 is rolled, a double 6 is rolled, or the player decides to "hold" their score. The player who first reaches the winning score wins. 
 
 ## Description
