@@ -11,7 +11,7 @@ The rules of the game are:
 * If a player rolls a double 6, they lose both current AND total score. They lose everything and it activates the next player’s turn. 
 
 ## Setup/Installation
-To view the app, click https://codinggilm.github.io/Dice-Game/ or copy https://codinggilm.github.io/Dice-Game/ to your browser and load it.
+To view the app, click https://codinggilm.github.io/Dice-Game/ or copy it to your browser and load it.
 
 ## Technologies Used
 * HTML
